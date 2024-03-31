@@ -1,6 +1,6 @@
 # Facial Recognition Project
 
-This project is aimed at developing a air gapped facial recognition system using Python and various libraries.
+This project is aimed at developing a air gapped facial recognition system using Python and various libraries.  
 More details can be found in the Project Report.
 
 It involves the following tasks:
